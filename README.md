@@ -116,7 +116,11 @@ Interactive Dashboard
 
 A video presentation of the **Income and Poverty Dashboard & Information Visualization project** is available below.
 
-📌 **My contribution begins at minute 2:20**, where I present the analysis and visualization of income and poverty indicators using DOSM datasets.
+📌 **My contribution appears at the following timestamps:**
+
+- **0:10** – Introduction 
+- **0:41** – Explanation of the dataset and analysis approach  
+- **2:20** – Presentation of the dashboard insights and visualization results  
 
 ▶️ Watch the presentation here:  
 https://www.youtube.com/watch?v=15g1ph97qUY
@@ -139,7 +143,6 @@ Potential future enhancements include:
 - Integration with additional **socio-economic indicators**
 - Advanced **interactive filtering for deeper analysis**
 - Long-term **trend analysis dashboards**
-- Expansion into **Power BI or other BI tools**
 
 ---
 
